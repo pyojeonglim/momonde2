@@ -1,6 +1,6 @@
 
 <p align="center">
-  <h1 align="center">Developer's Portfolio ✨</h1>
+  <h1 align="center">Reasercher's Portfolio ✨</h1>
 
   <p align="center">
 Profolio는 기획자를 위한, 쉽고 빠르게 제작 할 수 있는  정적 포트폴리오 템플릿 입니다. Github 페이지로 호스팅 됩니다.
